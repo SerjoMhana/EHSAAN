@@ -31,9 +31,9 @@
           <div class="mb-4">
             <p class="text-sm font-medium text-gray-700 mb-2 text-center">طرق الدفع المتاحة</p>
             <div class="flex justify-center items-center space-x-6 rtl:space-x-reverse">
-              <img src="@/assets/atm-card.png" alt="ATM Card" class="h-8 w-auto">
-              <img src="@/assets/cashless-payment.png" alt="Cashless Payment" class="h-8 w-auto">
-              <img src="@/assets/visa.png" alt="Visa" class="h-8 w-auto">
+              <img src="../../assets/atm-card.png" alt="ATM Card" class="h-8 w-auto">
+              <img src="../../assets/cashless-payment.png" alt="Cashless Payment" class="h-8 w-auto">
+              <img src="../../assets/visa.png" alt="Visa" class="h-8 w-auto">
             </div>
           </div>
           <a href="/pay">
