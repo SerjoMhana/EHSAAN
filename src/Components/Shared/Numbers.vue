@@ -30,7 +30,7 @@
       <div class="text-4xl mb-4">💵</div>
       <h3 class="text-lg font-semibold mb-1">إجمالي التبرعات</h3>
       <p class="text-2xl font-bold">2,436,977,380</p>
-      <p class="text-sm text-gray-200 mt-1">ريال سعودي</p>
+      <p class="text-sm text-gray-200 mt-1">دينار ليبي  </p>
     </div>
   </div>
 

@@ -5,11 +5,11 @@
 
       <!-- Logo -->
       <div class="flex-shrink-0">
-        <span class="text-green-600 text-xl font-bold">الإحسان</span>
+        <span class="text-green-600 text-xl font-bold">أيادي ليبيا</span>
       </div>
 
       <!-- Navigation links -->
-      <div class="flex space-x-8 rtl:space-x-reverse">
+      <div class="flex space-x-16 rtl:space-x-reverse">
         <a href="/" class="text-gray-800 hover:text-green-600">الرئيسية</a>
         <a href="/tabr" class="text-gray-800 hover:text-green-600"> فرص التبرع </a>
         <a href="/#SERV" class="text-gray-800 hover:text-green-600">خدماتنا</a>
@@ -23,7 +23,7 @@
           🔍
         </button>
 
-        <button class="text-gray-800 hover:text-green-600">
+        <button class="text-gray-800 hover:text-green-600" @click="handlePersonIconClick">
           <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"></path>
           </svg>
@@ -82,6 +82,15 @@ const performSearch = () => {
     showSearch.value = false; // Hide search bar after successful search
   } else {
     alert('لم يتم العثور على حالة بهذا الرقم.'); // Or display a message in the UI
+  }
+};
+
+const handlePersonIconClick = () => {
+  const userName = sessionStorage.getItem('userName');
+  if (userName) {
+    alert(`أنت مسجل الدخول باسم: ${userName}`);
+  } else {
+    router.push({ name: 'signin' });
   }
 };
 </script>

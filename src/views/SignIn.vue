@@ -29,8 +29,8 @@ export default {
       sessionStorage.setItem('userName', this.username);
       sessionStorage.setItem('password', this.password);
 
-      // Redirect to the Pay page
-      this.$router.push('/pay');
+      // Redirect to the Home page
+      this.$router.push('/');
     }
   }
 };
