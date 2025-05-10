@@ -13,7 +13,7 @@
               class="bg-white text-black px-5 py-2 rounded-l-full hover:bg-green-700 hover:text-white transition duration-300">إرسال
             </button>
             <input type="email" placeholder="أدخل بريدك الإلكتروني"
-              class="w-full px-4 py-2 rounded-r-full border border-gray-300 focus:outline-none text-right" />
+              class="text-black w-full px-4 py-2 rounded-r-full border border-gray-300 focus:outline-none text-right" />
     
           </form>
         </div>
