@@ -5,7 +5,7 @@
   
         <!-- العنوان -->
   <h2 class="text-3xl md:text-4xl font-bold mb-2">إحسانكم لعام <span class="bg-white text-green-900 px-2 py-1 rounded-md text-xl">2025</span></h2>
-  <p class="text-lg text-gray-100 mb-10">إحصائيات تعكس أثر عطائكم عبر منصة إحسان لعام 2025</p>
+  <p class="text-lg text-gray-100 mb-10">إحصائيات تعكس أثر عطائكم عبر أيادي ليبيا لعام 2025</p>
 
   <!-- الشبكة -->
   <div class="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-6xl mx-auto mb-10">

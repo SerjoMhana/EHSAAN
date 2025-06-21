@@ -14,7 +14,7 @@ export const projects = [
     id: 2,
     title: 'مشروع إفطار صائم',
     description: 'قدم وجبة إفطار لصائم، شارك الأجر وأدخل الفرحة على قلوب المحتاجين.',
-    image: 'https://scontent.fmji2-2.fna.fbcdn.net/v/t39.30808-6/487052388_1056136369869413_3689774361946320628_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=BApHGR_58QoQ7kNvwGElK42&_nc_oc=AdnGgUbpXRVaa892nQtD1GfW_69g-MWPmDuJ1G2wwbaNgo9no7n7nLJ3Sn78_ZBWBHA&_nc_zt=23&_nc_ht=scontent.fmji2-2.fna&_nc_gid=p79tlxKerXZ3iaFwkYI6RA&oh=00_AfJK41QxqoI2JLLriddXEOFDm7S12zwfASLmLqolUTCQFw&oe=681F340A',
+    image: 'https://namaa-web.s3.me-south-1.amazonaws.com/Projects/230.jpg',
     collected: '82,646',
     remaining: '33,854',
     caseNumber: 'P67890',

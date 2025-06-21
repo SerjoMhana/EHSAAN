@@ -13,7 +13,7 @@
         <a href="/" class="text-gray-800 hover:text-green-600">الرئيسية</a>
         <a href="/tabr" class="text-gray-800 hover:text-green-600"> فرص التبرع </a>
         <a href="/#SERV" class="text-gray-800 hover:text-green-600">خدماتنا</a>
-        <a href="/#EHSAN" class="text-gray-800 hover:text-green-600">عن إحسان</a>
+        <a href="/#EHSAN" class="text-gray-800 hover:text-green-600">عن أيادي ليبيا</a>
 
       </div>
 
